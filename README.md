@@ -20,6 +20,7 @@ Ritik Ranjan Sahoo
 ## Folder Structure
 
 bill-calculator/
+
 │── calculator.py
 │── README.md
 
